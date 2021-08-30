@@ -16,16 +16,17 @@ Foi o que eles disseram, antes de falharem miseravelmente infinitas vezes.
 
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Esse projeto foi criado com uso do [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
-In the project directory, you can run:
+No diretório do projeto, você pode executar:
+
+### `yarn install`
+Serão baixadas e instaladas as dependências.\
 
 ### `yarn start`
+Executará o app em modo de desenvolvimento.\
+Abra [http://localhost:3000](http://localhost:3000) para visualizar no navegador.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+A pagina será recarregada a medida que edições são feitas.\
